@@ -6,7 +6,7 @@
     <title>{{ $title ?? 'SIP Calculator' }}</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-blue-50 min-h-screen">
+<body class="bg-stone-100 min-h-screen">
     {{ $slot }}
 </body>
 </html>
